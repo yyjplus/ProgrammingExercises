@@ -33,3 +33,10 @@
 
 # vscode
 .vscode
+
+# macos
+*/.DS_Store
+.DS_Store
+cpp/cppExercisesXcodeProject/
+*.dSYM
+cpp/re-space
